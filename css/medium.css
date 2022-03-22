@@ -1,0 +1,76 @@
+@media only screen and (min-width: 600px) and (max-width:900px) {
+    
+    .calc-container{
+        width: 330px;
+        height: 530px;
+    }
+
+  
+.operator-container button{
+
+    display: block;
+    width: 19%;
+    height: 15%;
+    border: none;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    outline: none;
+    border-radius: 30%;
+    font-style: italic;
+    background: pink ;
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 10px;
+}
+
+.result-container{
+    width: 90%;
+    height: 90%;
+    text-align: right;
+    line-height: 39px;
+    padding: 20px 0px ;
+}
+
+.result-container h2{
+    font-size: 37px;
+}
+.result-container p{
+font-size: 23px;
+}
+
+
+
+.second-half-container > div > button:nth-child(2){
+    background-color: rgba(0, 128, 128, 0.425);
+}
+
+.second-half-container  button:nth-child(3){
+    background-color: rgba(0, 128, 128, 0.425);
+}
+
+.second-half-container button:nth-child(4){
+    background-color: rgba(0, 128, 128, 0.425);
+}
+
+.second-half-container button:nth-child(21){
+    background-color: palevioletred;
+   
+}
+
+.second-half-container button:nth-child(9){
+    background-color: rgba(228, 76, 49, 0.582);;
+
+}
+
+.second-half-container button:nth-child(5){
+    background-color:rgba(228, 76, 49, 0.582);;
+}
+.second-half-container button:nth-child(13){
+    background-color:rgba(228, 76, 49, 0.582);
+}
+
+.second-half-container button:nth-child(17){
+    background-color:rgba(228, 76, 49, 0.582);
+}
+}
