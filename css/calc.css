@@ -28,7 +28,7 @@ body{
 .calc-container{
  width: 300px;
  height: 500px;
- background-color: rgba(255, 255, 255, 0.464);
+ background-color: rgba(255, 255, 255, 0.764);
  border-top-left-radius: 35px;
  border-bottom-right-radius: 35px;
  box-shadow: 1px 1px 10px 3px black;
